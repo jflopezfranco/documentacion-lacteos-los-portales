@@ -1,2 +1,2 @@
 # project-lacteos-los-portales
-Primero proyecto website estatatica utilizando HTML y CSS  
+Primero proyecto website estatica utilizando HTML y CSS a micro-empresa
