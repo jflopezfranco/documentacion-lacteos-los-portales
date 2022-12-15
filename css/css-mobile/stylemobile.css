@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
 *{
     box-sizing: border-box;
     padding: 0;
@@ -6,6 +7,7 @@
 html {
     font-size: 62.5%;
 }
+/* header */
 .header-flex {
     display: flex;
     flex-direction: column;
@@ -13,8 +15,15 @@ html {
     gap: 1rem;
     margin-top: 1rem;
     text-align: center;
+    font-family: 'Fredoka One', cursive;
+    font-family: 'Poiret One', cursive;
 }
 .logo-nav-size{
     width: 10rem;
     height: 10rem;
+}
+/* main */
+.sec-food{
+    display: flex;
+    flex-direction: column;
 }
