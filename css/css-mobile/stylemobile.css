@@ -6,6 +6,7 @@
 }
 html {
     font-size: 62.5%;
+    margin-bottom: 2rem;
 }
 /* header */
 .header-flex {
@@ -13,7 +14,7 @@ html {
     flex-direction: column;
     align-items: center;
     gap: 1rem;
-    margin-top: 1rem;
+    margin-top: 1.5rem;
     text-align: center;
     font-family: 'Fredoka One', cursive;
     font-family: 'Poiret One', cursive;
@@ -26,4 +27,13 @@ html {
 .sec-food{
     display: flex;
     flex-direction: column;
+    align-items: center;
+    margin-top: 2rem;
+    gap: 2.5rem;
+    text-align: center;
+}
+.main-food-img{
+    height: 14rem;
+    width: 15rem;
+    border-radius: 1.5rem;
 }
