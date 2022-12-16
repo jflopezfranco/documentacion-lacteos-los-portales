@@ -36,6 +36,7 @@ html {
     gap: 2.5rem;
     text-align: center;
     font-size: 2rem;
+    margin-bottom: 3rem;
 }
 .main-food-img{
     height: 14rem;
@@ -56,6 +57,5 @@ html {
     align-items: center;
     text-align: center;
     height: fit-content;
-    margin-top: 2rem;
     font-size: 1.2rem;
 }
