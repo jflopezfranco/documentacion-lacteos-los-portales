@@ -1,0 +1,5 @@
+/* main */
+.sec-food{
+    flex-direction: row;
+    flex-wrap: wrap;
+}
