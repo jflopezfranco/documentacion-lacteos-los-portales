@@ -43,6 +43,9 @@ html {
     width: 15rem;
     border-radius: 1.5rem;
 }
+a{
+    color: aliceblue;
+}
 /* footer */
 .fter-logo{
     width: 1.3rem;
