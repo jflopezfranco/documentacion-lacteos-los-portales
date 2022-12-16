@@ -45,6 +45,10 @@ html {
 }
 a{
     color: aliceblue;
+    text-decoration: none;
+}
+P {
+    font-family: 'Fredoka One', cursive;
 }
 /* footer */
 .fter-logo{
